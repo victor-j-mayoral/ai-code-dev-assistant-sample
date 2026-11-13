@@ -17,3 +17,16 @@ out/
 # Generated files
 *.vsix
 package-lock.json
+
+# Environment files with API keys
+.env
+.env.*
+.env.local
+.env.*.local
+
+ # Virtual environment
+venv/
+venv11/
+env/
+.venv
+.venv11
